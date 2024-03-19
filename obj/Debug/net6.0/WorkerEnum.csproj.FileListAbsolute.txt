@@ -1,0 +1,15 @@
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/WorkerEnum
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/WorkerEnum.deps.json
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/WorkerEnum.runtimeconfig.json
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/WorkerEnum.dll
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/ref/WorkerEnum.dll
+/home/arthurguerra/Documentos/treino/WorkerEnum/bin/Debug/net6.0/WorkerEnum.pdb
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.csproj.AssemblyReference.cache
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.AssemblyInfoInputs.cache
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.AssemblyInfo.cs
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.csproj.CoreCompileInputs.cache
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.dll
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/ref/WorkerEnum.dll
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.pdb
+/home/arthurguerra/Documentos/treino/WorkerEnum/obj/Debug/net6.0/WorkerEnum.genruntimeconfig.cache
